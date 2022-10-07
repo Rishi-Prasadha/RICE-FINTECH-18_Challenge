@@ -33,10 +33,12 @@ import hashlib
 
 The following is an example of the resulting blockchain with a few blocks: 
 
+<img width="1535" alt="Screen Shot 2022-10-07 at 16 51 24" src="https://user-images.githubusercontent.com/107497500/194669345-9a9a3c09-8bba-45fc-ba08-7180fcffed27.png">
 
 
 The following is an example of the validate blockchain feature returning that the blockchain is a valid one:
 
+<img width="1536" alt="Screen Shot 2022-10-07 at 16 53 57" src="https://user-images.githubusercontent.com/107497500/194669351-8a735f20-b9ad-49a2-ad3f-3c48927efdeb.png">
 
 
 
